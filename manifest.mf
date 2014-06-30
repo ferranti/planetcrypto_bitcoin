@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.7.0_45-b31 (Oracle Corporation)
+
+Name: org.planetcrypto.bitcoin
+Bundle-Name: Planet Crypto Bitcoin
+Bundle-Version: 0.4
+Bundle-Date: 2014-06-18 00:16:36 CDT
+Written-By: halcyon
+Software-Vendor: Planet Crypto, LLC
+Copyright: ©2014 All Rights Reserved
+
